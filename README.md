@@ -1,149 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Hanan;Python+Developer;AI/ML;Computer+Vision;Deep+Learning+Develope;Building+Intelligent+Vision+Systems" />
-</p>
+<!-- GitHub bio field (below your name, not in this file) — replace the current
+"CS Student | Data Analytics • AI/ML • Cloud | Python | Building data-driven applications"
+with:
+"Python developer, moving toward AI Full-Stack Development" -->
 
-<h3 align="center">
-Computer Vision • Machine Learning • AI
-</h3>
+<p align="center"><img src="banner.svg" width="100%" alt="Muhammad Hanan — Python developer moving toward AI Full-Stack Development"></p>
 
----
+Python developer working across data pipelines, computer vision, and applied ML — building toward AI full-stack development one shipped project at a time.
 
-## About Me
-
-I'm a Computer Science student passionate about solving real-world problems through Artificial Intelligence.
-
-My primary interest is **Computer Vision**, where I enjoy building systems capable of understanding images and videos using Deep Learning.
-
-Currently I'm exploring
-
-• Object Detection
-• Image Classification
-• Segmentation
-• Tracking
-• Vision Transformers
-• Multimodal AI
-
-I believe AI should solve meaningful problems, especially in healthcare, agriculture, education and smart automation.
+Currently: BS Computer Science, University of Layyah. AWS Cloud Club Captain (Cohort 6).
 
 ---
 
-## Current Focus
+**Stack**
 
-🔭 Building Computer Vision Projects
-
-🌱 Learning
-
-- PyTorch
-- OpenCV
-- YOLO
-- Transformers
-- MLOps
-- AWS
-
-👯 Looking to collaborate on
-
-- Computer Vision
-- Deep Learning
-- Open Source AI
+`Python` `TensorFlow` `PyTorch` `OpenCV` `NumPy` `Pandas` `SQL` `AWS` `BigQuery`
+Learning: `FastAPI` `Docker` `LangChain` `MLOps`
 
 ---
 
-## Tech Stack
+**Projects**
 
-Languages
+**[ORBIT](https://github.com/HaniCodeHub/ORBIT)** — ETL pipeline and analytics dashboard processing 10,000+ research records pulled from the OpenAlex API. Python, BigQuery, Looker Studio. *(confirm exact repo slug)*
 
-Python
-C++
-Java
-SQL
+**[Livestock Guardian](https://github.com/HaniCodeHub/Livestock-Guardian-Web)** — Computer vision system for livestock identification using muzzle pattern biometrics with YOLOv8. Top 3, University of Layyah exhibition.
 
-AI
+**[Lytics](https://github.com/HaniCodeHub/laytics_app)** — Streamlit application for classroom performance and engagement analytics, deployed on Render.
 
-PyTorch
-TensorFlow
-Scikit-learn
-OpenCV
-YOLOv8
+**[Logixa](https://github.com/HaniCodeHub/Logixa)** — Rule-based classification system for automating university admission queries. *(confirm exact repo slug)*
 
-Data
-
-Pandas
-NumPy
-Matplotlib
-Plotly
-
-Cloud
-
-AWS
-Google BigQuery
-Render
-
-Tools
-
-Git
-GitHub
-VS Code
-Jupyter
+More on my [GitHub](https://github.com/HaniCodeHub).
 
 ---
 
-## Featured Projects
+**Now**
 
-### Animal Biometric Identification
-
-Computer Vision system for animal identification using muzzle recognition.
+Moving from data/ML projects toward full-stack AI systems — APIs, containerized deployment, and agent-based applications.
 
 ---
 
-### ORBIT
-
-Research analytics dashboard built using OpenAlex API.
-
----
-
-### Lytics
-
-Analytics platform for classroom performance.
-
----
-
-### Logixa
-
-University Admission Chatbot using Machine Learning.
-
----
-
-## Research Interests
-
-Computer Vision
-
-Deep Learning
-
-Vision Transformers
-
-Generative AI
-
-Medical Imaging
-
-Edge AI
-
-Robotics Vision
-
----
-
-## 2026 Goals
-
-- Build 20+ AI repositories
-- Publish Computer Vision blogs
-- Contribute to Open Source
-- Train custom YOLO models
-- Learn PyTorch Lightning
-- Build an end-to-end MLOps pipeline
-
----
-
-## Connect
-
-LinkedIn
-
-Email
+muhammadhananch786@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammadhanan786/)
