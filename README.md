@@ -1,6 +1,6 @@
 <p align="center"><img src="banner.svg" width="100%" alt="Muhammad Hanan — Python developer moving toward AI Full-Stack Development"></p>
 
-Python developer working across data pipelines, computer vision, and applied ML — building toward AI full-stack development one shipped project at a time.
+Python developer working across data pipelines, computer vision, and applied ML — building toward AI full-stack development one shipped project at a time. Moving towards AI-Engineering role.
 
 Currently: BS Computer Science, University of Layyah. AWS Student Builder Group (Cohort 6).
 
