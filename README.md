@@ -1,27 +1,27 @@
-<p align="center"><img src="banner.svg" width="100%" alt="Muhammad Hanan — Python developer moving toward AI Full-Stack Development"></p>
+<p align="center"><img src="banner.svg" width="100%" alt="Muhammad Hanan — Python developer building toward AI full-stack development"></p>
 
-Python developer working across data pipelines, computer vision, and applied ML — building toward AI full-stack development one shipped project at a time.
+I build practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My focus is on turning ideas into reliable, real-world solutions through thoughtful implementation and strong engineering fundamentals.
 
-Currently: BS Computer Science, University of Layyah. AWS Student Builder Group at University of Layyah (Cohort 6).
+Currently pursuing a BS in Computer Science at the University of Layyah and serving as a member of the AWS Student Builder Group (Cohort 6).
 
 ---
 
 **Stack**
 
-`Python`  `NumPy` `Pandas` `SQL` `AWS` `BigQuery`
+`Python` `NumPy` `Pandas` `SQL` `AWS` `BigQuery`
 Learning: `TensorFlow` `PyTorch` `OpenCV` `FastAPI` `Docker` `LangChain` `MLOps`
 
 ---
 
 **Projects**
 
-**[ORBIT](https://github.com/HaniCodeHub/ORBIT)** — ETL pipeline and analytics dashboard processing 10,000+ research records pulled from the OpenAlex API. Python, BigQuery, Looker Studio. *(confirm exact repo slug)*
+**[ORBIT](https://github.com/HaniCodeHub/ORBIT)** — An end-to-end data pipeline and analytics dashboard that ingests publication data from the OpenAlex API, transforms it into a structured dataset, and visualizes insights through BigQuery and Looker Studio.
 
-**[Livestock Guardian](https://github.com/HaniCodeHub/Livestock-Guardian-Web)** — Computer vision system for livestock identification using muzzle pattern biometrics with YOLOv8. Top 3, University of Layyah exhibition.
+**[Livestock Guardian](https://github.com/HaniCodeHub/Livestock-Guardian-Web)** — A computer vision system for livestock identification based on muzzle pattern biometrics, developed with YOLOv8 and recognized as a top-3 project at the University of Layyah exhibition.
 
-**[Lytics](https://github.com/HaniCodeHub/laytics_app)** — Streamlit application for classroom performance and engagement analytics, deployed on Render.
+**[Lytics](https://github.com/HaniCodeHub/laytics_app)** — A Streamlit-based application focused on classroom performance and engagement analytics, deployed on Render.
 
-**[Logixa](https://github.com/HaniCodeHub/Logixa)** — Rule-based classification system for automating university admission queries. *(confirm exact repo slug)*
+**[Logixa](https://github.com/HaniCodeHub/Logixa)** — A rule-based classification system designed to automate university admission-related queries with structured logic.
 
 More on my [GitHub](https://github.com/HaniCodeHub).
 
@@ -29,7 +29,7 @@ More on my [GitHub](https://github.com/HaniCodeHub).
 
 **Now**
 
-Moving from data/ML projects toward full-stack AI systems — APIs, containerized deployment, and agent-based applications.
+Transitioning from data and machine learning projects toward full-stack AI systems — building APIs, deployment-ready applications, and agent-based experiences with a stronger product mindset.
 
 ---
 
