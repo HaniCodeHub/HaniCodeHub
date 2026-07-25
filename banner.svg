@@ -45,10 +45,10 @@
     </tspan>
   </text>
 
-  <text x="90" y="155" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#8b949e" opacity="0">Python developer &#8594; AI Full-Stack Developer (in progress)
+  <text x="90" y="155" font-family="JetBrains Mono, Consolas, monospace" font-size="16" fill="#8b949e" opacity="0">AI engineer &#8594; building systems with real-world impact
     <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.5s" fill="freeze"/>
   </text>
-  <text x="90" y="195" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#7ee787" opacity="0">class: ai_full_stack_dev  conf: 0.72  status: training
+  <text x="90" y="195" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#7ee787" opacity="0">focus: data engineering  ml  computer vision  full-stack ai
     <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.5s" fill="freeze"/>
   </text>
 

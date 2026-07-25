@@ -11,7 +11,7 @@
 </p>
 
 ## About
-I design and ship practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My work focuses on building robust solutions with strong engineering fundamentals, thoughtful architecture, and measurable impact.
+I design and ship practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My work focuses on building robust, production-minded solutions with strong engineering fundamentals, thoughtful architecture, and measurable impact.
 
 I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6).
 
