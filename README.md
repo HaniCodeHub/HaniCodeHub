@@ -13,13 +13,14 @@
 ## About
 I design and ship practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My work focuses on building robust, production-minded solutions with strong engineering fundamentals, thoughtful architecture, and measurable impact.
 
-I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6).
+I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6). My goal is to build systems that are not only technically strong but also useful, scalable, and thoughtfully designed.
 
 ## What I Build
 - End-to-end data pipelines and analytics platforms
 - Applied machine learning and computer vision systems
 - AI-powered products with clean APIs and deployment-ready architecture
 - Tools that make complex information useful for real users
+- Systems that connect research, data, and product thinking in a practical way
 
 ## Selected Highlights
 - Built a research analytics platform that combines API extraction, data transformation, and dashboard-ready reporting.
@@ -42,9 +43,10 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 - Write systems that are clear, maintainable, and reliable
 - Prefer thoughtful design over shortcuts
 - Learn fast, ship consistently, and iterate with intent
+- Value clarity, discipline, and long-term craftsmanship in every build
 
 ## Current Direction
-Transitioning from strong foundations in data and machine learning toward full-stack AI systems — building APIs, deployment-ready products, and intelligent experiences with a product mindset.
+Transitioning from strong foundations in data and machine learning toward full-stack AI systems — building APIs, deployment-ready products, and intelligent experiences with a product mindset grounded in execution, iteration, and thoughtful delivery.
 
 ## Connect
 muhammadhananch786@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammadhanan786/) · [GitHub](https://github.com/HaniCodeHub)
