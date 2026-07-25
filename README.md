@@ -21,6 +21,11 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 - AI-powered products with clean APIs and deployment-ready architecture
 - Tools that make complex information useful for real users
 
+## Selected Highlights
+- Built a research analytics platform that combines API extraction, data transformation, and dashboard-ready reporting.
+- Developed a computer vision solution recognized as a top-3 project at the University of Layyah exhibition.
+- Created analytics tools aimed at making complex data understandable and actionable.
+
 ## Featured Projects
 - [ORBIT](https://github.com/HaniCodeHub/ORBIT) — A production-minded research analytics pipeline that extracts publication data from OpenAlex, transforms it, and visualizes insights through BigQuery and Looker Studio.
 - [Livestock Guardian](https://github.com/HaniCodeHub/Livestock-Guardian-Web) — A computer vision solution for livestock identification using muzzle pattern biometrics, recognized as a top-3 project at the University of Layyah exhibition.
