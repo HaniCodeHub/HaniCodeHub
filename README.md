@@ -44,6 +44,12 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 
 **Growing:** TensorFlow · PyTorch · OpenCV · FastAPI · Docker · LangChain · MLOps · API-first Delivery
 
+## Working Style
+- I treat every project as a product, not just code
+- I collaborate transparently and communicate decisions clearly
+- I prioritize stability, observability, and iteration over one-off hacks
+- I structure work so it is easy to hand off, maintain, and improve over time
+
 ## Engineering Principles
 - Build for real-world use, not just demos
 - Design systems that are clear, maintainable, and reliable
