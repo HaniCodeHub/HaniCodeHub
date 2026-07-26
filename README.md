@@ -1,7 +1,7 @@
 <p align="center"><img src="banner.svg" width="100%" alt="Muhammad Hanan — AI engineer building high-impact software"></p>
 
 <h1 align="center">Muhammad Hanan</h1>
-<p align="center"><em>Building intelligent systems that turn ideas into reliable products.</em></p>
+<p align="center"><em>Delivering practical AI, data engineering, and computer vision systems with real product focus.</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -11,9 +11,9 @@
 </p>
 
 ## About
-I design and ship practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My work focuses on building robust, production-minded solutions with strong engineering fundamentals, thoughtful architecture, and measurable impact.
+I design and ship practical software systems at the intersection of data engineering, computer vision, and applied machine learning. My work is centered on building reliable, production-minded solutions with thoughtful architecture, strong engineering fundamentals, and measurable impact.
 
-I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6). My goal is to build systems that are not only technically strong but also useful, scalable, and thoughtfully designed.
+I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6). I focus on building systems that are technically strong, easy to maintain, and immediately useful for users.
 
 ## What I Build
 - End-to-end data pipelines and analytics platforms
