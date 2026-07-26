@@ -23,9 +23,10 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 - Systems that connect research, data, and product thinking into practical, scalable solutions
 
 ## Selected Highlights
-- Built a research analytics platform that combines API extraction, data transformation, and dashboard-ready reporting.
-- Developed a computer vision solution recognized as a top-3 project at the University of Layyah exhibition.
-- Created analytics tools aimed at making complex data understandable and actionable.
+- Built a research analytics platform that extracts OpenAlex publication data, transforms it, and delivers dashboard-ready insights through BigQuery and Looker Studio.
+- Developed a livestock identification computer vision solution that placed top 3 at the University of Layyah exhibition.
+- Created classroom analytics tools that surface engagement and performance insights for better decision-making.
+- Delivered systems with an emphasis on deployment readiness, reliability, and measurable business or research outcomes.
 
 ## Featured Projects
 - [ORBIT](https://github.com/HaniCodeHub/ORBIT) — A production-minded research analytics pipeline that extracts publication data from OpenAlex, transforms it, and visualizes insights through BigQuery and Looker Studio.
