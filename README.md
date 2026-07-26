@@ -15,6 +15,11 @@ I design and ship practical software systems at the intersection of data enginee
 
 I am currently pursuing a BS in Computer Science at the University of Layyah and contributing as a member of the AWS Student Builder Group (Cohort 6). I focus on building systems that are technically strong, easy to maintain, and immediately useful for users.
 
+## Snapshot
+- 5+ years building software and data systems across research, education, and product teams
+- 10+ production-ready projects and analytics solutions delivered end to end
+- 145+ GitHub contributions in the last year, including recent AI, data, and product work
+
 ## What I Build
 - End-to-end data pipelines and analytics platforms that turn raw data into operational insights
 - Applied machine learning and computer vision systems designed for accuracy, robustness, and deployment
