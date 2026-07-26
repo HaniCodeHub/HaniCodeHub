@@ -47,7 +47,9 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 - Treat every project as an opportunity for craftsmanship and long-term value
 
 ## Current Direction
-Transitioning from strong foundations in data and machine learning toward full-stack AI systems — building APIs, deployment-ready products, and intelligent experiences with a product mindset grounded in execution, iteration, and thoughtful delivery.
+Moving from strong foundations in data engineering and machine learning toward full-stack AI systems: building APIs, deployment-ready products, and intelligent experiences with a product-first mindset.
 
 ## Connect
-muhammadhananch786@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammadhanan786/) · [GitHub](https://github.com/HaniCodeHub)
+- Email: muhammadhananch786@gmail.com
+- LinkedIn: [linkedin.com/in/muhammadhanan786](https://www.linkedin.com/in/muhammadhanan786/)
+- GitHub: [github.com/HaniCodeHub](https://github.com/HaniCodeHub)
