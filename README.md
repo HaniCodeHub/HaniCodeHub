@@ -35,16 +35,16 @@ I am currently pursuing a BS in Computer Science at the University of Layyah and
 - [Logixa](https://github.com/HaniCodeHub/Logixa) — A rule-based classification system for automating university admission-related queries.
 
 ## Core Stack
-**Primary:** Python · SQL · NumPy · Pandas · AWS · BigQuery
+**Primary:** Python · SQL · NumPy · Pandas · AWS · BigQuery · Data Pipelines
 
-**Growing:** TensorFlow · PyTorch · OpenCV · FastAPI · Docker · LangChain · MLOps
+**Growing:** TensorFlow · PyTorch · OpenCV · FastAPI · Docker · LangChain · MLOps · API-first Delivery
 
 ## Engineering Principles
 - Build for real-world use, not just demos
-- Write systems that are clear, maintainable, and reliable
-- Prefer thoughtful design over shortcuts
-- Learn fast, ship consistently, and iterate with intent
-- Value clarity, discipline, and long-term craftsmanship in every build
+- Design systems that are clear, maintainable, and reliable
+- Prefer thoughtful architecture over shortcuts
+- Ship iteratively with focus and measurable learning
+- Treat every project as an opportunity for craftsmanship and long-term value
 
 ## Current Direction
 Transitioning from strong foundations in data and machine learning toward full-stack AI systems — building APIs, deployment-ready products, and intelligent experiences with a product mindset grounded in execution, iteration, and thoughtful delivery.
