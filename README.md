@@ -64,3 +64,6 @@ Moving from strong foundations in data engineering and machine learning toward f
 - Email: muhammadhananch786@gmail.com
 - LinkedIn: [linkedin.com/in/muhammadhanan786](https://www.linkedin.com/in/muhammadhanan786/)
 - GitHub: [github.com/HaniCodeHub](https://github.com/HaniCodeHub)
+
+## Let’s Work Together
+Open to collaboration on AI, analytics, and product-focused engineering work. If you have a project or research idea, reach out and let’s see how I can help turn it into a working system.
